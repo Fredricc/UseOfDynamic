@@ -4,9 +4,9 @@
     {
         public string Text { get; }
 
-        public SomeClass(dynamic hopefullyText)
+        public SomeClass(dynamic hopefulyText)
         {
-            Text = hopefullyText;
+            Text = hopefulyText;
         }
     }
 
