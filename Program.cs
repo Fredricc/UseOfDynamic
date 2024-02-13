@@ -16,7 +16,7 @@
         {
             //var someClass = new SomeClass();
 
-            dynamic text = "some text";
+            dynamic text = "some dynamic text";
 
             var toUpper = text.ToUpper();
 
