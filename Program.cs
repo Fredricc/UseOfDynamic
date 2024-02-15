@@ -14,7 +14,6 @@
     {
         static void Main(string[] args)
         {
-            //var someClass = new SomeClass();
 
             dynamic text = "some dynamic text";
 
